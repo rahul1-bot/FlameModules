@@ -2,7 +2,13 @@
 
 <!--![FlameModules Logo](link_to_your_logo.png)  <!-- If you have a logo, replace 'link_to_your_logo.png' with the actual link -->
 
-FlameModules is an exploratory collection of *Python codes built on top of PyTorch*. Designed as a learning tool, it offers deep insights into neural network operations and PyTorch functionalities. Though crafted primarily for personal enlightenment, all are welcome to use this as a learning resource.
+FlameModules is an exploratory collection of *Python codes built on top of PyTorch*. Designed as a learning tool, it offers deep insights into neural network operations and PyTorch functionalities. Though crafted primarily for personal enlightenment, all are welcome to use this as a learning resources.
+
+Below is a visual representation of the structure and relationship between various modules:
+
+![Snip20231025_6](https://github.com/rahul1-bot/FlameModules/assets/65220704/5c17901a-88de-417c-9d7e-c0608ff20095)
+
+
 
 ## Modules Overview
 
