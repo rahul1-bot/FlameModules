@@ -78,10 +78,15 @@ Below is a visual representation of the structure and relationship between vario
   - Hyperparameter optimization tools
   - Improved training results.
 
-
 ## Installation
 
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/rahul1-bot/FlameModules.git
+
+## Visual Diagram 
+### core
+![CORE](https://github.com/rahul1-bot/FlameModules/assets/65220704/fe512fab-70b0-488e-8d64-9364eedd788a)
+
+
 
