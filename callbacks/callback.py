@@ -282,7 +282,7 @@ from typing import Type
 #   - Kicks in right before gradients are set to zero with `optimizer.zero_grad()`.
 #   - Helpful for operations that need to be done before resetting gradients, like logging old gradients or other related tasks.
 
-class Callack:
+class Callback:
     #@: Abstract base class for building new callbacks
     #@: Subclass this class and then override any of the relevant hooks
     @property
