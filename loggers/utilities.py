@@ -99,7 +99,10 @@ def _scan_checkpoints(checkpoint_callback: Checkpoint, logged_model_time: dict[A
     return checkpoints
 
 
+def hemllo() -> int:
+    return 5
 
+    
 
 
 def _log_hyperparams(trainer: 'flame_modules.Trainer') -> None:
